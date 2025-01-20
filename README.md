@@ -9,3 +9,7 @@ A PyTorch-based neural network for classifying FashionMNIST images, developed as
 
 ## Technologies Used
 - **Languages/Frameworks**: Python, PyTorch, Torchvision
+
+## Acknowledgment
+This project was developed for CS540: Introduction to Artificial Intelligence at the University of Wisconsin-Madison.
+
